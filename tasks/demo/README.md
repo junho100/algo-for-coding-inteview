@@ -1,0 +1,2 @@
+- GET /chatroom/{id}
+- POST /chat
