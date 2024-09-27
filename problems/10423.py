@@ -52,5 +52,3 @@ while queue:
             is_connected[a_parent] = True
             is_connected[b_parent] = True
 print(result)
-
-    
